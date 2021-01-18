@@ -14,4 +14,5 @@ __pycache__/
 
 config/static
 instagram/static
-staticfiles
+staticfiles"sendgrid.env"
+sendgrid.env
